@@ -1,0 +1,172 @@
+[
+  {
+    "id": "101",
+    "provinceEn": "beijing",
+    "provinceZh": "北京"
+  },
+  {
+    "id": "102",
+    "provinceEn": "tianjin",
+    "provinceZh": "天津"
+  },
+  {
+    "id": "103",
+    "provinceEn": "shanghai",
+    "provinceZh": "上海"
+  },
+  {
+    "id": "104",
+    "provinceEn": "chongqing",
+    "provinceZh": "重庆"
+  },
+  {
+    "id": "201",
+    "provinceEn": "hongkong",
+    "provinceZh": "香港"
+  },
+  {
+    "id": "202",
+    "provinceEn": "macao",
+    "provinceZh": "澳门"
+  },
+  {
+    "id": "301",
+    "provinceEn": "neimenggu",
+    "provinceZh": "内蒙古"
+  },
+  {
+    "id": "302",
+    "provinceEn": "guangxi",
+    "provinceZh": "广西"
+  },
+  {
+    "id": "303",
+    "provinceEn": "xizang",
+    "provinceZh": "西藏"
+  },
+  {
+    "id": "304",
+    "provinceEn": "ningxia",
+    "provinceZh": "宁夏"
+  },
+  {
+    "id": "305",
+    "provinceEn": "xinjiang",
+    "provinceZh": "新疆"
+  },
+  {
+    "id": "401",
+    "provinceEn": "taiwan",
+    "provinceZh": "台湾"
+  },
+  {
+    "id": "402",
+    "provinceEn": "heilongjiang",
+    "provinceZh": "黑龙江"
+  },
+  {
+    "id": "403",
+    "provinceEn": "jilin",
+    "provinceZh": "吉林"
+  },
+  {
+    "id": "404",
+    "provinceEn": "liaoning",
+    "provinceZh": "辽宁"
+  },
+  {
+    "id": "405",
+    "provinceEn": "hebei",
+    "provinceZh": "河北"
+  },
+  {
+    "id": "406",
+    "provinceEn": "henan",
+    "provinceZh": "河南"
+  },
+  {
+    "id": "407",
+    "provinceEn": "shanxi",
+    "provinceZh": "山西"
+  },
+  {
+    "id": "408",
+    "provinceEn": "shandong",
+    "provinceZh": "山东"
+  },
+  {
+    "id": "409",
+    "provinceEn": "jiangsu",
+    "provinceZh": "江苏"
+  },
+  {
+    "id": "410",
+    "provinceEn": "zhejiang",
+    "provinceZh": "浙江"
+  },
+  {
+    "id": "411",
+    "provinceEn": "fujian",
+    "provinceZh": "福建"
+  },
+  {
+    "id": "412",
+    "provinceEn": "jiangxi",
+    "provinceZh": "江西"
+  },
+  {
+    "id": "413",
+    "provinceEn": "anhui",
+    "provinceZh": "安徽"
+  },
+  {
+    "id": "414",
+    "provinceEn": "hubei",
+    "provinceZh": "湖北"
+  },
+  {
+    "id": "415",
+    "provinceEn": "hunan",
+    "provinceZh": "湖南"
+  },
+  {
+    "id": "416",
+    "provinceEn": "guangdong",
+    "provinceZh": "广东"
+  },
+  {
+    "id": "417",
+    "provinceEn": "hainan",
+    "provinceZh": "海南"
+  },
+  {
+    "id": "418",
+    "provinceEn": "guizhou",
+    "provinceZh": "贵州"
+  },
+  {
+    "id": "419",
+    "provinceEn": "yunnan",
+    "provinceZh": "云南"
+  },
+  {
+    "id": "420",
+    "provinceEn": "sichuan",
+    "provinceZh": "四川"
+  },
+  {
+    "id": "421",
+    "provinceEn": "shan-xi",
+    "provinceZh": "陕西"
+  },
+  {
+    "id": "422",
+    "provinceEn": "gansu",
+    "provinceZh": "甘肃"
+  },
+  {
+    "id": "423",
+    "provinceEn": "qinghai",
+    "provinceZh": "青海"
+  }
+]
