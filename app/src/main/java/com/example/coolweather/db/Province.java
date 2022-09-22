@@ -2,35 +2,38 @@ package com.example.coolweather.db;
 
 import org.litepal.crud.DataSupport;
 
+/**
+ * 省
+ */
 public class Province extends DataSupport {
-    private String id;
-    private String provinceEn;
-    private String provinceZh;
+    private int id;
+    private String provinceId;
+    private String provinceName;
 
     public Province() {
     }
 
-    public String getId() {
+    public int getId() {
         return id;
     }
 
-    public void setId(String id) {
+    public void setId(int id) {
         this.id = id;
     }
 
-    public String getProvinceEn() {
-        return provinceEn;
+    public String getProvinceId() {
+        return provinceId;
     }
 
-    public void setProvinceEn(String provinceEn) {
-        this.provinceEn = provinceEn;
+    public void setProvinceId(String provinceId) {
+        this.provinceId = provinceId;
     }
 
-    public String getProvinceZh() {
-        return provinceZh;
+    public String getProvinceName() {
+        return provinceName;
     }
 
-    public void setProvinceZh(String provinceZh) {
-        this.provinceZh = provinceZh;
+    public void setProvinceName(String provinceName) {
+        this.provinceName = provinceName;
     }
 }

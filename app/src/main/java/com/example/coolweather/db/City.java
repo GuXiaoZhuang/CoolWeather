@@ -2,38 +2,40 @@ package com.example.coolweather.db;
 
 import org.litepal.crud.DataSupport;
 
+/**
+ * 市
+ */
 public class City extends DataSupport {
-    private String id;
-    private String cityEn;
-    private String cityZh;
+    private int id;
+    private String cityId;
+    private String cityName;
     private String provinceId;
-    private String weatherId;
 
     public City() {
     }
 
-    public String getId() {
+    public int getId() {
         return id;
     }
 
-    public void setId(String id) {
+    public void setId(int id) {
         this.id = id;
     }
 
-    public String getCityEn() {
-        return cityEn;
+    public String getCityId() {
+        return cityId;
     }
 
-    public void setCityEn(String cityEn) {
-        this.cityEn = cityEn;
+    public void setCityId(String cityId) {
+        this.cityId = cityId;
     }
 
-    public String getCityZh() {
-        return cityZh;
+    public String getCityName() {
+        return cityName;
     }
 
-    public void setCityZh(String cityZh) {
-        this.cityZh = cityZh;
+    public void setCityName(String cityName) {
+        this.cityName = cityName;
     }
 
     public String getProvinceId() {
@@ -42,13 +44,5 @@ public class City extends DataSupport {
 
     public void setProvinceId(String provinceId) {
         this.provinceId = provinceId;
-    }
-
-    public String getWeatherId() {
-        return weatherId;
-    }
-
-    public void setWeatherId(String weatherId) {
-        this.weatherId = weatherId;
     }
 }

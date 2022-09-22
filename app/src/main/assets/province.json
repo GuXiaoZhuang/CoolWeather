@@ -1,33 +1,33 @@
 [
   {
     "id": "101",
-    "provinceEn": "beijing",
-    "provinceZh": "北京"
+    "provinceZh": "北京",
+    "provinceCod": "101010100"
   },
   {
     "id": "102",
-    "provinceEn": "tianjin",
-    "provinceZh": "天津"
+    "provinceZh": "上海",
+    "provinceCod": "101020100"
   },
   {
     "id": "103",
-    "provinceEn": "shanghai",
-    "provinceZh": "上海"
+    "provinceZh": "天津",
+    "provinceCod": "101030100"
   },
   {
     "id": "104",
-    "provinceEn": "chongqing",
-    "provinceZh": "重庆"
+    "provinceZh": "重庆",
+    "provinceCod": "101040100"
   },
   {
     "id": "201",
-    "provinceEn": "hongkong",
-    "provinceZh": "香港"
+    "provinceZh": "香港",
+    "provinceCod": "101320101"
   },
   {
     "id": "202",
-    "provinceEn": "macao",
-    "provinceZh": "澳门"
+    "provinceZh": "澳门",
+    "provinceCod": "101330101"
   },
   {
     "id": "301",
